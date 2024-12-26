@@ -2,3 +2,5 @@ streamlit
 matplotlib
 numpy
 ezdxf
+plotly
+streamlit-drawable-canvas
