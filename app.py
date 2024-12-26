@@ -1,5 +1,7 @@
 # app.py
 import streamlit as st
+import matplotlib.pyplot as plt
 
-st.title("Hello, Streamlit!")
-st.write("This is a test app.")
+st.title("Interactive Product Path Plot")
+
+st.write("Welcome to the Streamlit version of your Tkinter app!")
